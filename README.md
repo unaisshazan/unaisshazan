@@ -12,7 +12,3 @@ I Love Coding.
 # My Work
 -[Portfolio](http://www.unaisali.com)
 <br />
--[DDos Attacker](https://github.com/ProgrammerGaurav/DDos-Attack)
-
-![picture](https://raw.githubusercontent.com/ProgrammerGaurav/programmergaurav/master/images/dino.gif)
-
