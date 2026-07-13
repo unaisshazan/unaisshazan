@@ -52,7 +52,7 @@ I explored this during research on how cities can get more value from existing c
 - 🌐 [Portfolio](http://www.unaisali.com)
 - 🚀 [UTech Edu](https://www.utech-edu.com)
 - 💼 [LinkedIn](https://www.linkedin.com/in/unais-ali-a88245176)
-- scholar [Google Scholar](https://scholar.google.com/citations?user=y0bBDdcAAAAJ&hl=en)
+- 📚 [Google Scholar](https://scholar.google.com/citations?user=y0bBDdcAAAAJ&hl=en)
 - 🐙 [GitHub](https://github.com/unaisshazan)
 
 ---
