@@ -9,7 +9,7 @@ Based in **Ypsilanti, MI** · Open to collaboration on research, product, and ci
 <p>
   <a href="https://github.com/unaisshazan"><img src="https://img.shields.io/github/followers/unaisshazan?label=Followers&style=flat-square&color=0969da" alt="GitHub followers" /></a>
   <a href="https://github.com/unaisshazan?tab=repositories"><img src="https://img.shields.io/github/stars/unaisshazan?affiliation=owner&label=Stars&style=flat-square&color=1f883d" alt="GitHub stars" /></a>
-  <a href="mailto:unaisshazan@gmail.com"><img src="https://img.shields.io/badge/Email-unaisshazan%40gmail.com-D14836?style=flat-square" alt="Email" /></a>
+  <a href="mailto:unais@utech-edu.com"><img src="https://img.shields.io/badge/Email-unais%40utech--edu.com-D14836?style=flat-square" alt="Email" /></a>
   <a href="https://www.linkedin.com/in/unais-ali-a88245176"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square" alt="LinkedIn" /></a>
 </p>
 
@@ -59,7 +59,7 @@ I worked on this during research into how cities can get more value from existin
 
 ### Connect
 
-- 📧 [unaisshazan@gmail.com](mailto:unaisshazan@gmail.com)
+- 📧 [unais@utech-edu.com](mailto:unais@utech-edu.com)
 - 🌐 [Portfolio](http://www.unaisali.com)
 - 🚀 [UTech Edu](https://www.utech-edu.com)
 - 💼 [LinkedIn](https://www.linkedin.com/in/unais-ali-a88245176)
