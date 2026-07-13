@@ -6,6 +6,13 @@ Electronics engineer, technical lead, and full-stack builder focused on AI-drive
 
 Based in **Ypsilanti, MI** · Open to collaboration on research, product, and civic-tech ideas.
 
+<p>
+  <a href="https://github.com/unaisshazan"><img src="https://img.shields.io/github/followers/unaisshazan?label=Followers&style=flat-square&color=0969da" alt="GitHub followers" /></a>
+  <a href="https://github.com/unaisshazan?tab=repositories"><img src="https://img.shields.io/github/stars/unaisshazan?affiliation=owner&label=Stars&style=flat-square&color=1f883d" alt="GitHub stars" /></a>
+  <a href="mailto:unaisshazan@gmail.com"><img src="https://img.shields.io/badge/Email-unaisshazan%40gmail.com-D14836?style=flat-square" alt="Email" /></a>
+  <a href="https://www.linkedin.com/in/unais-ali-a88245176"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square" alt="LinkedIn" /></a>
+</p>
+
 ---
 
 ### About
@@ -23,9 +30,9 @@ Innovative engineer with experience integrating **EEG hardware**, microcontrolle
 ### Featured research / open source
 
 **[Traffic Intelligence](https://github.com/unaisshazan/traffic-intelligence)**  
-A research prototype for live traffic analytics from street cameras — intersection counts, congestion, freight insights, school-zone volumes, and planning exports.
+Open-source research outcome for live traffic analytics from street cameras — intersection vehicle counts, congestion scoring, freight / heavy-truck insights, school-zone volumes, and planning exports.
 
-I explored this during research on how cities can get more value from existing camera feeds, and I’m sharing the outcome so others can reuse or build on it.
+I worked on this during research into how cities can get more value from existing camera feeds, and I’m sharing it so others can reuse or build on the approach.
 
 ---
 
@@ -38,7 +45,11 @@ I explored this during research on how cities can get more value from existing c
 
 ---
 
-### Technical skills
+### Tech stack
+
+<p>
+  <img src="https://skillicons.dev/icons?i=python,cpp,js,ts,react,nextjs,nodejs,html,css,pytorch,opencv,git,arduino,raspberrypi,mongodb,mysql" alt="Tech stack icons" />
+</p>
 
 `Python` · `C/C++` · `C#` · `JavaScript` · `React` · `Next.js` · `Node.js` · `SQL`  
 `PyTorch` · `OpenCV` · `Pandas` · `NumPy`  
@@ -54,14 +65,5 @@ I explored this during research on how cities can get more value from existing c
 - 💼 [LinkedIn](https://www.linkedin.com/in/unais-ali-a88245176)
 - 📚 [Google Scholar](https://scholar.google.com/citations?user=y0bBDdcAAAAJ&hl=en)
 - 🐙 [GitHub](https://github.com/unaisshazan)
-
----
-
-### GitHub snapshot
-
-<p align="left">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=unaisshazan&show_icons=true&hide=contribs,prs&theme=transparent&hide_border=true&title_color=24292f&icon_color=0969da&text_color=24292f&cache_seconds=86400" alt="Unais Ali GitHub stats" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=unaisshazan&layout=compact&theme=transparent&hide_border=true&title_color=24292f&text_color=24292f&cache_seconds=86400" alt="Top languages" />
-</p>
 
 Thanks for visiting — feel free to explore my work or reach out.
