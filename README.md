@@ -36,7 +36,7 @@ I worked on this during research into how cities can get more value from existin
 
 ---
 
-### Selected experience
+### Work experience
 
 - **University of Michigan** — Architected digital platforms for neurodiversity initiatives; built NeuroNavigator integrating EEG caps with software to support focus and learning outcomes.
 - **UTech Digital Education** — React/Node platform with Stripe + GA4; ranked #21 globally on F6S for Top Online Learning Platforms.
@@ -45,7 +45,7 @@ I worked on this during research into how cities can get more value from existin
 
 ---
 
-### Tech stack
+### Tools & technologies
 
 <p>
   <img src="https://skillicons.dev/icons?i=python,cpp,js,ts,react,nextjs,nodejs,html,css,pytorch,opencv,git,arduino,raspberrypi,mongodb,mysql" alt="Tech stack icons" />
